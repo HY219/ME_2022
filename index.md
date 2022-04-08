@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## 자기소개
+이름 : 정혜연
+학번 : 2019105041
+전공 : 컴퓨터공학전공
+소속 : 제주대학교
 
-You can use the [editor on GitHub](https://github.com/HY219/ME_2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### ㅋ
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
